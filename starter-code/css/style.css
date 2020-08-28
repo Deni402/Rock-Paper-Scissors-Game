@@ -11,11 +11,13 @@ body {
   margin: 50px;
   border-style: solid;
   border-width: 10px;
-  border-color: rgba(16, 235, 216, 0.3);
+  border-color: rgba(0, 89, 253, 0.3);
   }
   header {
     padding: 100px;
-
+    text-shadow: 0 0 10px rgb(0, 204, 255), 0 0 20px rgb(0, 225, 255), 0 0 30px #358f87, 0 0 40px #349c94, 0 0 50px #239191, 0 0 60px #23b88b, 0 0 70px #33a8c5;
+     
+    
   }
   header > h1 {
     padding: 1px;
@@ -24,7 +26,7 @@ body {
     font-family: Asap, sans-serif;
     /* border: 1px solid black;
     box-shadow: 5px 5px 20px #02f1d2; */
-    color: rgb(87, 122, 118);
+    color: rgb(0, 255, 225);
     font-family: 'Abel', sans-serif;
     font-size: 25px;
     /* background-image: url(https://i.imgur.com/hgwkMRP.jpg); */
