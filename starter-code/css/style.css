@@ -53,6 +53,9 @@ body {
     padding: 15px 20px;
     font-family: Asap, sans-serif;
     position: relative;
+    border-radius: 1000px;
+    margin: 50px auto 10px auto;
+    box-shadow: 2px 2px 40px rgb(85, 85, 245) ;
   }
   .badge {
     background: rgb(34, 108, 131);
@@ -61,6 +64,8 @@ body {
     font-size: 14px;
     padding: 20px 10px;
     font-family: Asap, sans-serif;
+    border-radius: 1000px;
+    box-shadow: 2px 2px 40px rgb(85, 85, 245) ;
   }
 
 #user-label {
